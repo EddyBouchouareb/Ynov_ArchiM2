@@ -20,9 +20,6 @@ Ce projet est réalisé dans le cadre du TP d'architecture réseau. Le groupe jo
 | `NovaCorp-Siege.pkt` | Maquette Cisco Packet Tracer 9.0.1, version finale v3 |
 | `INFRA-NovaCorp.md` | Description détaillée de l'infrastructure (plan et maquette) |
 | `CHANGELOG.md` | Historique du travail sur les trois séances |
-| `NovaCorp-Dossier-Architecture-Reseau-S1.pdf` | Dossier complet du livrable S1 |
-| `1-Schema-logique.pdf` à `5-Convention-nommage.pdf` | Les 5 livrables S1, un fichier par livrable |
-| `NovaCorp-Schema-Simple.drawio` | Schéma logique modifiable dans draw.io |
 
 ## En bref
 
